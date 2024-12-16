@@ -1,4 +1,4 @@
-<!-- Title Section -->
+![image](https://github.com/user-attachments/assets/2a38cb23-018a-4c0d-8c4d-441a5b95926c)<!-- Title Section -->
 <h1 align="center">Hi there! 👋 I'm Ronak Ramuka</h1>
 <h3 align="center">🚀 Software Developer | Competitive Programmer | Tech Enthusiast</h3>
 
@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ About Me
-- 🔭 Currently working on **[EasyPark](https://github.com/Ronak8595/EasyPark)**: A platform to commercialize parking spaces.
+- 🔭 Currently working on **[Trading System](https://github.com/Ronak8595/Trading-System)**: A platform for high trading settlements of trade pairs.
 - 🌱 Learning **Blockchain** and **AI integrations in web development.**
 - 🎯 Aspiring to build scalable and user-friendly software solutions.
 - ⚡ Fun fact: I love solving algorithmic puzzles and can solve a Rubik's cube in under 2 minutes!
@@ -17,9 +17,9 @@
 ---
 
 ## 🏆 Achievements
+- Delhi **State rank 2nd** in Silverzone International Olympiad of Mathematics.
 - **Finalist** at *Code Gladiators 2024*.  
-- **Exceptional Ranks** in *Google Kickstart 2022* (Top 500) and *Hacker Cup 2021* (Top 2K).  
-- **Open Source Contribution**: Implemented SQL parsing in JavaScript for the *C4GT platform*.  
+- **Exceptional Ranks** in *Google Kickstart 2022* (Top 500) and *Hacker Cup 2024* (Top 2K).  
 
 ---
 
@@ -27,12 +27,11 @@
 - **Codeforces**: [Ronak_Ramuka](https://codeforces.com/profile/Ronak_Ramuka)  
 - **LeetCode**: [Ronak_Ramuka](https://leetcode.com/Ronak_Ramuka)  
 - **CodeChef**: [skullbotrr](https://www.codechef.com/users/skullbotrr)  
-- **Hackerrank**: [Ronak_Ramuka](https://www.hackerrank.com/Ronak_Ramuka)
 
 **Ranks:**
-- **Codeforces**: *Candidate Master* (Rank: 1600+)
-- **LeetCode**: *Top 2K in Global Ranking*
-- **CodeChef**: *Master* (Rank: 2100+)
+- **Codeforces**: *Expert* (Rating: 1750+)
+- **LeetCode**: *Top 0.44 in Global Ranking* (Rating: 2375+)
+- **CodeChef**: *5 Star* (Rating: 2000+)
 
 ---
 
@@ -48,22 +47,10 @@
 
 ---
 
-## 📚 Key Projects
-| Project Name              | Description                                                                                                       |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **[EasyPark](https://github.com/Ronak8595/EasyPark)** | Commercializing urban parking spaces with a user-friendly platform.                                               |
-| **[File Management](https://github.com/Ronak8595/FileManagement)** | A C++ program for seamless file organization without using REST APIs or databases.                             |
-| **[Transducer Simulation](https://github.com/Ronak8595/TransducerSimulation)** | Modeling transducer directivities using MATLAB.                                                                |
-
----
-
 ## 🌟 Highlights
 - **GitHub Trophies**:  
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Ronak8595&theme=onestar&no-frame=true&column=6)
-
-- **Activity Graph**:  
-  ![Ronak's Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Ronak8595&theme=react-dark)
-
+  
 ---
 
 ## 🌐 Connect with Me
