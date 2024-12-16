@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2a38cb23-018a-4c0d-8c4d-441a5b95926c)<!-- Title Section -->
+<!-- Title Section -->
 <h1 align="center">Hi there! 👋 I'm Ronak Ramuka</h1>
 <h3 align="center">🚀 Software Developer | Competitive Programmer | Tech Enthusiast</h3>
 
